@@ -19,7 +19,7 @@ class Demo{
 	
 }
 
-class Demo2 extends Demo
+class Demos extends Demo
 {
 	public void disp()
 	{
